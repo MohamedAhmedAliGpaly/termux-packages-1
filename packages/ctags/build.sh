@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://ctags.io/
 TERMUX_PKG_DESCRIPTION="Universal ctags: Source code index builder"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_VERSION=0.0.20190412
+TERMUX_PKG_VERSION=p5.9.20201115.0
 TERMUX_PKG_REVISION=1
 _COMMIT=61cc66cfc796e707cfb13c5fed493af280378c75
 TERMUX_PKG_SRCURL=https://github.com/universal-ctags/ctags/archive/${_COMMIT}.zip
